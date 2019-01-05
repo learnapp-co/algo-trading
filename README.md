@@ -8,7 +8,7 @@ This is a sample project created while teaching a LearnApp course - [Learn How A
 
 ### 📈 [Learn How Algo Trading Works](https://learnapp.co/courses/Learn-How-Algo-Trading-Works/trailer)
 
-<img src="docs/capture.jpg" width="250"> <img src="docs/chart.jpg" width="250">
+<img src="docs/capture.jpg" width="500"> <img src="docs/chart.jpg" width="350">
 
 In this course we have discussed the followings:
 
