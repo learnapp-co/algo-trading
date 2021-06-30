@@ -1,12 +1,12 @@
 # Algo Trading
 
-This is a sample project created while teaching a LearnApp course - [Learn How Algo Trading Works](https://learnapp.co/courses/Learn-How-Algo-Trading-Works/trailer)
+This is a sample project created while teaching a LearnApp course - [Learn How Algo Trading Works](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
 
 **NOTE:**
 
 > We do not recommend or want anyone to use this as a live system. It is for demonstration and educational purposes only. Use it to further your research only.
 
-### 📈 [Learn How Algo Trading Works](https://learnapp.co/courses/Learn-How-Algo-Trading-Works/trailer)
+### 📈 [Learn How Algo Trading Works](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
 
 <img src="docs/capture.jpg" width="500"> <img src="docs/chart.jpg" width="350">
 
@@ -84,12 +84,12 @@ Start the [Backtest](http://localhost:8080/backtest)
 GET /backtest?year=2018&shouldDownload=yes
 ```
 
-There are two optional query parameters for this request - 
+There are two optional query parameters for this request -
 
 - `year` The year for which to run the backtest (defaults to 2018)
 - `shouldDownload` Whether or not to download the OHLC data for all NFO stocks before running the backtest (defaults to false). If any value is present in this parameter, then it will be treated as `true` value
 
-**NOTE:** 
+**NOTE:**
 _It is important that you login before running the backtest for the first time. Also, you must login before running the backtest if you wish to download the yearly ohlc data._
 
 ## 💻 Development
@@ -129,7 +129,7 @@ const server = https.createServer({
 }, app);
 
 // ...
-// --- api routes related code 
+// --- api routes related code
 // ...
 
 server.listen(8080, () => console.log('Server is listening on port 8080'));
