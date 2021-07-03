@@ -1,12 +1,12 @@
 # Algo Trading
 
-This is a sample project created while teaching a LearnApp course - [Learn How Algo Trading Works](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
+This is a sample project created while teaching a LearnApp course - [Equity Momentum Strategy](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
 
 **NOTE:**
 
 > We do not recommend or want anyone to use this as a live system. It is for demonstration and educational purposes only. Use it to further your research only.
 
-### 📈 [Learn How Algo Trading Works](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
+### 📈 [Equity Momentum Strategy](https://learnapp.com/courses/equity-momentum-strategy/topics/trailer/?locale=en-us)
 
 <img src="docs/capture.jpg" width="500"> <img src="docs/chart.jpg" width="350">
 
